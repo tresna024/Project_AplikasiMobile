@@ -57,24 +57,6 @@ Contoh:
 const apiKey = "YOUR_API_KEY";
 ```
 
----
-
-## 📸 Tampilan Aplikasi
-
-### Halaman Beranda
-
-![Login](Screenshots/gambar(2).png)
-
-### Detail Film
-
-![Detail](screenshots/detail.png)
-
-### Halaman Home
-
-![Detail](screenshots/detail.png)
-
----
-
 ## 📂 Struktur Project
 
 ```
@@ -102,6 +84,7 @@ Project ini dibuat untuk:
 ## 👨‍💻 Author
 
 **Tresna Nas**
+
 
 
 
