@@ -63,9 +63,13 @@ const apiKey = "YOUR_API_KEY";
 
 ### Halaman Beranda
 
-![Home](screenshots/home.png)
+![Login](screenshots/gambar(2).png)
 
 ### Detail Film
+
+![Detail](screenshots/detail.png)
+
+### Halaman Home
 
 ![Detail](screenshots/detail.png)
 
@@ -98,3 +102,4 @@ Project ini dibuat untuk:
 ## 👨‍💻 Author
 
 **Tresna Nas**
+
